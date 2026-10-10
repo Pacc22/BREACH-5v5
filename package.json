@@ -1,0 +1,14 @@
+{
+  "name": "breach-5v5-online",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Prot\u00f3tipo 3D de FPS multijogador por navegador",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "ws": "^8.18.0"
+  }
+}
